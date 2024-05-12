@@ -63,7 +63,7 @@ v3
         conn = transaction.get_connection('default')
         if conn.in_atomic_block:
             return 'default'
-        databases = ['default', 'replicea'
+        databases = ['default', 'replica']
         
         return random.choice(databases)
     ```
