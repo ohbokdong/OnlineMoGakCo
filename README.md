@@ -8,5 +8,5 @@
 - [TIL: 리드 레플리카](./young/2024-05-12-read-replica.md)
 
 ## 지수
-- [Kotlin Multiplatform (Infcon 2023_알파카랩스)](./jisu/2024-05-19-infcon-2023.md)
 - [Kotlin 2024]()
+- [Kotlin Multiplatform (Infcon 2023_알파카랩스)](./jisu/2024-05-19-infcon-2023.md)
